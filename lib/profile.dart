@@ -2,10 +2,9 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-//import 'theme.dart';
 import 'package:project1/theme.dart';
-class Profile extends StatefulWidget {
 
+class Profile extends StatefulWidget {
   @override
   _ProfileState createState() => _ProfileState();
 }
